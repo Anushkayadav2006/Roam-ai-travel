@@ -1,0 +1,6 @@
+{
+  "name": "RoamAI - AI Travel Itinerary Generator",
+  "description": "Generate hyper-personalized day-by-day travel itineraries based on destination, duration, budget, travel style, and interests with AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
